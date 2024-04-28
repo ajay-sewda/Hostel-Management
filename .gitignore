@@ -28,7 +28,7 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-credentials_hostel.json
+src/main/resources/credentials_hostel.json
 
 ### VS Code ###
 .vscode/
